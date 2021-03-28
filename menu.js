@@ -292,6 +292,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}limparchat* ❮txt❯
 ❁❧ *${p}ataque* ❮txt❯
 ❁❧ *${p}divulgar* ❮txt❯
+❁❧ *${p}entrargp* ❮txt❯
 ❁❧ *${p}block* ❮num❯
 ❁❧ *${p}unblock* ❮num❯
 
