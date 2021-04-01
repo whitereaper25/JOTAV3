@@ -17,8 +17,8 @@
     "whatsapp",
     "bot"
   ],
-  "author": "BrizasBot",
-  "license": "ISC",
+  "author": "JotaRoyal",
+  "license": "VIP",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "@kagchi/kag-api": "^1.5.5",
@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+    "url": "git+https://github.com/JotaRoyal/BRIZAS2.git"
   },
   "bugs": {
-    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+    "url": "https://github.com/JotaRoyal/BRIZAS2/issues"
   },
-  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+  "homepage": "https://github.com/JotaRoyal/BRIZAS2#readme"
 }
