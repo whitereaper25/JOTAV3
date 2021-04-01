@@ -4,7 +4,7 @@
         <img src= "https://i.imgur.com/sm6LGkk.gif">
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/JotaRoyal"><img title="Author"    src="https://img.shields.io/badge/Author-JotaRoyal-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom/followers"><img title="Followers" src="https://img.shields.io/github/followers/ianmsfvenom?color=blue&style=flat-square"></a>
