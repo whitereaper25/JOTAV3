@@ -1,10 +1,10 @@
-const ownerNumber = ["12603763944@s.whatsapp.net"] 
+const ownerNumber = ["34644364340@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '12603763944' 
+const OriginalOwner = '34644364340' 
 // mude para seu numero
 
-const cr = '𝐅𝐞𝐥𝐢𝐱𝐜𝐫𝐚𝐜𝐤𝐁𝐨𝐭\n' 
+const cr = '𝗝𝗼𝘁𝗮𝗥𝗼𝘆𝗮𝗹\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -13,10 +13,10 @@ const prefix = '!'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Adios aborto tu baneo esta cerca*'
+const banmsgtype = '*Adios aborto de sapo tu baneo esta cerca*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Eres adm y te prohibiré enviar una especie de mensaje prohibido*'
+const adminmsgtype = '*Eres adm, respeta, no debes enviar mensajes prohibidos*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
 const banmsgporn = 'Hmmm pajin con antiporn activado, ya sabes, ya sabes...'
@@ -34,37 +34,37 @@ const adminmsglink = 'Este es un enlace de amigo ... ah, eres adm entonces está
 
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
 
-const linkimgday = 'https://i.imgur.com/RR18JiI.jpg'
-const textmsgday = 'Ohayo gozaimasu, Onii-chan 👉👈'
+const linkimgday = 'https://i.ibb.co/XSGQ7r6/Screenshot-20210401-220856-1.jpg'
+const textmsgday = 'Buenos días grupo'
 // link e mensagem de bom dia
 
-const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
+const linkimgeve = 'https://i.ibb.co/vv4X2P5/Screenshot-20210401-215736-1.jpg'
 const textmsgeve = `Onii-chan, acepta ese café ☕`
 // link e mensagem de boa tarde
 
-const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
+const linkimgnig = 'https://i.ibb.co/dDvj9fR/Screenshot-20210401-212646-1.jpg'
 const textmsgnig = 'Konbanwa Onii-chan, espero que hayas tenido un buen día ☺️'
 // link e mensagem de boa noite 
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Chale intenta de nuevo:/'
+const msgerr = 'Intentalo de nuevo:/'
 // mensagem de erro
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = ' 😣😣'
+const botlindo = ' 😊'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
 const botfeio = 'Te has visto en un espejo? 😡'
 const cadebot = 'onii-chan 👉👈?'
-const botfdp = 'Vete a la mierda chico, te golpea cuando estás dormido'
+const botfdp = 'Vete a tomar por culo subnormal, te caíste de la cuna cuando eras bebe?'
 const botgostoso = 'Arigato  😳👉👈'
 const botfofo = 'Arigato 😳👉👈'
-const botbaianor = 'Invité a tu placa base a mi red tu maízo'
-const botcorno = 'Vete a la mierda, jugador ff, comprador de paquete de pieso'
-const botputa = 'Vete alv😡'
+const botbaianor = 'Invité a tu novia a ver Netflix'
+const botcorno = 'Vete a la mierda, jugador ff, niño rata'
+const botputa = 'Vete a tomar por culo😡'
 const botgay = 'Jajaj tu lo eres pvto😡'
-const botviado = 'Dijo que el hombre rueda 😡'
+const botviado = 'Lo dijo el payaso del grupo 😡'
 const numbotfeio = 'Hijo de ...😡'
 // KEYS
 
@@ -97,7 +97,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=12603763944:+1 (260) 376-3944\n' 
++ 'TEL;type=CELL;type=VOICE;waid=34644364340:+34 644364340\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
