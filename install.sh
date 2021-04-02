@@ -14,5 +14,5 @@ pkg install imagemagick -y
 npm install
 npm install pm2 -g
 
-Fin
 
+echo "Hmmm todo correcto, disfruta :)"
