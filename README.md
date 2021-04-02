@@ -33,8 +33,8 @@ O Brizas-bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/JotaRoyal/BRIZAS2/
-cd BRIZAS2
+git clone https://github.com/JotaRoyal/JOTAROYAL
+cd JOTAROYAL
 bash install.sh
 npm install
 
