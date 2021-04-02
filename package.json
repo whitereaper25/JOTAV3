@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JotaRoyal/BRIZAS2.git"
+    "url": "git+https://github.com/JotaRoyal/JOTAROYAL.git"
   },
   "bugs": {
-    "url": "https://github.com/JotaRoyal/BRIZAS2/issues"
+    "url": "https://github.com/JotaRoyal/JOTAROYAL/issues"
   },
-  "homepage": "https://github.com/JotaRoyal/BRIZAS2#readme"
+  "homepage": "https://github.com/JotaRoyal/JOTAROYAL#readme"
 }
