@@ -75,7 +75,6 @@ return `┏━━━━━〘 𝗝𝗼𝘁𝗮𝗥𝗼𝘆𝗮𝗹 〙━━━�
  *${p}shadow* ❮txt❯
  *${p}fakeidentity*
  *${p}txtcmd*
- *${p}installbot*
  *${p}traduz* ❮la❯ ❮txt❯
  *${p}wame*
  *${p}repeat* ❮txt❯
