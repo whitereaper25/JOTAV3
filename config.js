@@ -106,7 +106,6 @@ const vcard = 'BEGIN:VCARD\n'
 
 exports.linkbotlindo = linkbotlindo
 exports.botlindo = botlindo
-exports.botfeio = botfeio
 exports.cadebot = cadebot
 exports.botfdp = botfdp
 exports.botgostoso = botgostoso
