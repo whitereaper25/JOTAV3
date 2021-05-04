@@ -7,7 +7,7 @@ const OriginalOwner = '919080896537'
 const cr = 'well\n' 
 // texto do simbolo de verificado
 
-const prefix = '#' 
+const prefix = '&' 
 // prefixo
 
 
