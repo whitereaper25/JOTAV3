@@ -1,4 +1,4 @@
-const ownerNumber = ["919080896537@s.whatsapp.net","13153887211@s.whatsapp.net"] 
+const ownerNumber = ["13153887211@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '919080896537' 
@@ -7,7 +7,7 @@ const OriginalOwner = '919080896537'
 const cr = 'well\n' 
 // texto do simbolo de verificado
 
-const prefix = '&' 
+const prefix = '#' 
 // prefixo
 
 
