@@ -5,6 +5,6 @@ exports.welcome = welcome
 
 const bye = (number) => {
     return `OH you left @${number}.I wont miss you.
-anyway see ya👋`
+anyway good luck on your way to hell👋`
 }
 exports.bye = bye
